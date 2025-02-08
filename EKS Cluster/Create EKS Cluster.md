@@ -5,4 +5,4 @@
 
   # Create EKS Cluster
 
-        eksctl create cluster --name=my-cluster --region us-east-1 --fargate
+        eksctl create cluster --name my-cluster --region us-east-1 --fargate
