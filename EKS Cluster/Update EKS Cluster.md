@@ -1,6 +1,7 @@
 # Update EKS Cluster
 
-- Updating an Amazon EKS (Elastic Kubernetes Service) cluster involves upgrading the Kubernetes control plane and worker nodes to a newer version.
+- Updating an Amazon EKS (Elastic Kubernetes Service) cluster involves upgrading the Kubernetes 
+ control plane and worker nodes to a newer version.
 
  # command 
 
